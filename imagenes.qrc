@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/save.svg</file>
+        <file>images/save-disabled.svg</file>
+        <file>images/delete.svg</file>
+    </qresource>
+</RCC>
