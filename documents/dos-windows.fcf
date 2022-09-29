@@ -1,0 +1,21 @@
+Tema::MS-DOS y Windows
+Pregunta::¿En qué año salió la primera version de windows?
+Respuesta::1985
+Pregunta::¿Cómo se accede al MS-DOS?
+Respuesta::1. nos dirigimos al botón de inicio de Windows¶2. en la barra de búsqueda ponemos «cmd»¶3. oprimimos la tecla [enter]
+Pregunta::¿Qué sistema de archivos ofrece una opción de seguridad?
+Respuesta::NTFS
+Pregunta::¿Cuál es la principal diferencia entre sistemas operativos de 32 y 64 bits?
+Respuesta::La principal diferencia es la capacidad de memoria RAM que soporta cada uno.¶Los sistemas de 32 bits soportan hasta 4GB de RAM mientras los de 64 pueden soportar mas de 8GB.
+Pregunta::¿Qué es el sistema operativo?
+Respuesta::Es el software principal o conjunto de programas de un sistema informático que gestiona los recursos de hardware y provee servicios a los programas de aplicación de software, ejecutándose en modo privilegiado respecto a los restantes.
+Pregunta::¿Qué es un archivo batch?
+Respuesta::Es un archivo de procesamiento por lotes se trata de un conjunto de archivos de texto sin formato guardado con la extencion .bat
+Pregunta::¿Qué comando es utilizado en el MS-DOS para agregar variables de entorno?
+Respuesta::set/a- ¶da valor a una variable utilizando operaciones aritméticas.¶set/p- ¶permite la entrada de datos por parte de usuario.
+Pregunta::¿Cuáles son los elementos de escritorio de Windows?
+Respuesta::1 accesos directos¶2 iconos¶3 gadgets¶4 área de notificación¶5 barra de tareas¶6 botón de inicio¶7 fondo
+Pregunta::¿Cuál es la diferencia entre los sistemas de archivos FAT32 y NTFS?
+Respuesta::FAT32 es un sistema anticuado con gran compatibilidad mientras NTFS es un sitema de archvos que tiene mayor capacidad y con una mejora de seguridad respecto al FAT32
+Pregunta::¿Cuál es el significado de «formatear»?
+Respuesta::Es organizar un disco u otro soporte de acuerdo a un formato determinado de sectores, pistas, etc.

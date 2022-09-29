@@ -1,0 +1,437 @@
+Tema::Identificar los gentilicios de cada país
+Pregunta::Afganistán
+Respuesta::afgano
+Pregunta::Aland
+Respuesta::alandés
+Pregunta::Albania
+Respuesta::albanés
+Pregunta::Alemania
+Respuesta::alemán
+Pregunta::Andorra
+Respuesta::andorrano
+Pregunta::Angola
+Respuesta::angoleño
+Pregunta::Anguila
+Respuesta::anguilense
+Pregunta::Antigua y Barbuda
+Respuesta::antiguano
+Pregunta::Argelia
+Respuesta::argelino
+Pregunta::Argentina
+Respuesta::argentino
+Pregunta::Armenia
+Respuesta::armenio
+Pregunta::Aruba
+Respuesta::arubeño
+Pregunta::Australia
+Respuesta::australiano
+Pregunta::Austria
+Respuesta::austriaco
+Pregunta::Azerbaiyán
+Respuesta::azerbaiyano
+Pregunta::Bahamas
+Respuesta::bahameño
+Pregunta::Bangladés
+Respuesta::bangladesí
+Pregunta::Barbados
+Respuesta::barbadense
+Pregunta::Baréin
+Respuesta::bareiní
+Pregunta::Bélgica
+Respuesta::belga
+Pregunta::Belice
+Respuesta::beliceño
+Pregunta::Benín
+Respuesta::beninés
+Pregunta::Bermudas
+Respuesta::bermudeño
+Pregunta::Bielorrusia
+Respuesta::bielorruso
+Pregunta::Bolivia
+Respuesta::boliviano
+Pregunta::Bosnia y Herzegovina
+Respuesta::bosnioherzegovino
+Pregunta::Botsuana
+Respuesta::botsuano
+Pregunta::Brasil
+Respuesta::brasileño
+Pregunta::Reino Unido
+Respuesta::británico
+Pregunta::Brunéi
+Respuesta::bruneano
+Pregunta::Bulgaria
+Respuesta::búlgaro
+Pregunta::Burkina Faso
+Respuesta::burkinés
+Pregunta::Burundi
+Respuesta::burundés
+Pregunta::Bután
+Respuesta::butanés
+Pregunta::Cabo Verde
+Respuesta::caboverdiano
+Pregunta::Islas Caimán
+Respuesta::caimanés
+Pregunta::Camboya
+Respuesta::camboyano
+Pregunta::Camerún
+Respuesta::camerunés
+Pregunta::Canadá
+Respuesta::canadiense
+Pregunta::Qatar
+Respuesta::catarí
+Pregunta::República Centroafricana
+Respuesta::centroafricano
+Pregunta::Chad
+Respuesta::chadiano
+Pregunta::Chequia
+Respuesta::checo
+Pregunta::Chile
+Respuesta::chileno
+Pregunta::China
+Respuesta::chino
+Pregunta::Chipre
+Respuesta::chipriota
+Pregunta::Colombia
+Respuesta::colombiano
+Pregunta::Comoras
+Respuesta::comorense
+Pregunta::Congo
+Respuesta::congoleño
+Pregunta::República Democrática del Congo
+Respuesta::congoleño
+Pregunta::Corea del Norte
+Respuesta::coreano
+Pregunta::Corea del Sur
+Respuesta::coreano
+Pregunta::Costa de Marfil
+Respuesta::costamarfileño
+Pregunta::Costa Rica
+Respuesta::costarricense
+Pregunta::Croacia
+Respuesta::croata
+Pregunta::Cuba
+Respuesta::cubano
+Pregunta::Curazao
+Respuesta::curazoleño
+Pregunta::Dinamarca
+Respuesta::danés
+Pregunta::República Dominicana
+Respuesta::dominicano
+Pregunta::Dominica
+Respuesta::dominiqués
+Pregunta::Guinea Ecuatorial
+Respuesta::ecuatoguineano
+Pregunta::Ecuador
+Respuesta::ecuatoriano
+Pregunta::Egipto
+Respuesta::egipcio
+Pregunta::Emiratos Árabes Unidos
+Respuesta::emiratí
+Pregunta::Eritrea
+Respuesta::eritreo
+Pregunta::Eslovaquia
+Respuesta::eslovaco
+Pregunta::Eslovenia
+Respuesta::esloveno
+Pregunta::España
+Respuesta::español
+Pregunta::Sri Lanka
+Respuesta::esrilanqués
+Pregunta::Estados Unidos
+Respuesta::estadounidense
+Pregunta::Estonia
+Respuesta::estonio
+Pregunta::Esuatini
+Respuesta::esuatiní
+Pregunta::Etiopía
+Respuesta::etíope
+Pregunta::Islas Feroe
+Respuesta::feroés
+Pregunta::Filipinas
+Respuesta::filipino
+Pregunta::Finlandia
+Respuesta::finlandés
+Pregunta::Fiyi
+Respuesta::fiyiano
+Pregunta::Francia
+Respuesta::francés
+Pregunta::Gabón
+Respuesta::gabonés
+Pregunta::Gambia
+Respuesta::gambiano
+Pregunta::Georgia
+Respuesta::georgiano
+Pregunta::Ghana
+Respuesta::ghanés
+Pregunta::Gibraltar
+Respuesta::gibraltareño
+Pregunta::Granada
+Respuesta::granadino
+Pregunta::Grecia
+Respuesta::griego
+Pregunta::Groenlandia
+Respuesta::groenlandés
+Pregunta::Guadalupe
+Respuesta::guadalupeño
+Pregunta::Guam
+Respuesta::guameño
+Pregunta::Guatemala
+Respuesta::guatemalteco
+Pregunta::Guayana Francesa
+Respuesta::guayanés
+Pregunta::Guinea
+Respuesta::guineano
+Pregunta::Guyana
+Respuesta::guyanés
+Pregunta::Haití
+Respuesta::haitiano
+Pregunta::Honduras
+Respuesta::hondureño
+Pregunta::Hong Kong
+Respuesta::hongkonés
+Pregunta::Hungría
+Respuesta::húngaro
+Pregunta::India
+Respuesta::indio
+Pregunta::Indonesia
+Respuesta::indonesio
+Pregunta::Irán
+Respuesta::iraní
+Pregunta::Irak
+Respuesta::iraquí
+Pregunta::Irlanda
+Respuesta::irlandés
+Pregunta::Islandia
+Respuesta::islandés
+Pregunta::Israel
+Respuesta::israelí
+Pregunta::Italia
+Respuesta::italiano
+Pregunta::Jamaica
+Respuesta::jamaicano
+Pregunta::Japón
+Respuesta::japonés
+Pregunta::Jordania
+Respuesta::jordano
+Pregunta::Kazajistán
+Respuesta::kazajo
+Pregunta::Kenia
+Respuesta::keniata
+Pregunta::Kirguistán
+Respuesta::kirguís
+Pregunta::Kiribati
+Respuesta::kiribatiano
+Pregunta::Kuwait
+Respuesta::kuwaití
+Pregunta::Laos
+Respuesta::laosiano
+Pregunta::Lesoto
+Respuesta::lesotense
+Pregunta::Letonia
+Respuesta::letón
+Pregunta::Líbano
+Respuesta::libanés
+Pregunta::Liberia
+Respuesta::liberiano
+Pregunta::Libia
+Respuesta::libio
+Pregunta::Liechtenstein
+Respuesta::liechtensteiniano
+Pregunta::Lituania
+Respuesta::lituano
+Pregunta::Luxemburgo
+Respuesta::luxemburgués
+Pregunta::Macao
+Respuesta::macaense
+Pregunta::Macedonia del Norte
+Respuesta::macedonio
+Pregunta::Malasia
+Respuesta::malasio
+Pregunta::Malaui
+Respuesta::malauí
+Pregunta::Maldivas
+Respuesta::maldivo
+Pregunta::Madagascar
+Respuesta::malgache
+Pregunta::Mali
+Respuesta::malí
+Pregunta::Malta
+Respuesta::maltés
+Pregunta::Islas Malvinas
+Respuesta::malvinense
+Pregunta::Isla de Man
+Respuesta::manés
+Pregunta::Marruecos
+Respuesta::marroquí
+Pregunta::Islas Marshall
+Respuesta::marshalés
+Pregunta::Martinica
+Respuesta::martiniqués
+Pregunta::Mauricio
+Respuesta::mauriciano
+Pregunta::Mauritania
+Respuesta::mauritano
+Pregunta::Mayotte
+Respuesta::mayotense
+Pregunta::México
+Respuesta::mexicano
+Pregunta::Micronesia
+Respuesta::micronesio
+Pregunta::Moldavia
+Respuesta::moldavo
+Pregunta::Mónaco
+Respuesta::monegasco
+Pregunta::Mongolia
+Respuesta::mongol
+Pregunta::Montenegro
+Respuesta::montenegrino
+Pregunta::Montserrat
+Respuesta::montserratense
+Pregunta::Mozambique
+Respuesta::mozambiqueño
+Pregunta::Namibia
+Respuesta::namibio
+Pregunta::Nauru
+Respuesta::nauruano
+Pregunta::Países Bajos
+Respuesta::neerlandés
+Pregunta::Nueva Caledonia
+Respuesta::neocaledonio
+Pregunta::Nueva Zelanda
+Respuesta::neozelandés
+Pregunta::Nepal
+Respuesta::nepalés
+Pregunta::Nicaragua
+Respuesta::nicaragüense
+Pregunta::Nigeria
+Respuesta::nigeriano
+Pregunta::Níger
+Respuesta::nigerino
+Pregunta::Niue
+Respuesta::niueño
+Pregunta::Noruega
+Respuesta::noruego
+Pregunta::Omán
+Respuesta::omaní
+Pregunta::Pakistán
+Respuesta::pakistaní
+Pregunta::Palaos
+Respuesta::palauano
+Pregunta::Panamá
+Respuesta::panameño
+Pregunta::Papúa Nueva Guinea
+Respuesta::papú
+Pregunta::Paraguay
+Respuesta::paraguayo
+Pregunta::Perú
+Respuesta::peruano
+Pregunta::Polonia
+Respuesta::polaco
+Pregunta::Polinesia Francesa
+Respuesta::polinesio
+Pregunta::Portugal
+Respuesta::portugués
+Pregunta::Puerto Rico
+Respuesta::puertorriqueño
+Pregunta::Reunión
+Respuesta::reunionés
+Pregunta::Ruanda
+Respuesta::ruandés
+Pregunta::Rumanía
+Respuesta::rumano
+Pregunta::Rusia
+Respuesta::ruso
+Pregunta::Sáhara Occidental
+Respuesta::saharaui
+Pregunta::Islas Salomón
+Respuesta::salomonense
+Pregunta::El Salvador
+Respuesta::salvadoreño
+Pregunta::Samoa
+Respuesta::samoano
+Pregunta::San Cristóbal y Nieves
+Respuesta::sancristobaleño
+Pregunta::San Marino
+Respuesta::sanmarinense
+Pregunta::Santa Lucía
+Respuesta::santalucense
+Pregunta::Santo Tomé y Príncipe
+Respuesta::santotomense
+Pregunta::San Vicente y las Granadinas
+Respuesta::sanvicentino
+Pregunta::Arabia Saudí
+Respuesta::saudí
+Pregunta::Senegal
+Respuesta::senegalés
+Pregunta::Serbia
+Respuesta::serbio
+Pregunta::Seychelles
+Respuesta::seychellense
+Pregunta::Sierra Leona
+Respuesta::sierraleonés
+Pregunta::Singapur
+Respuesta::singapurense
+Pregunta::Siria
+Respuesta::sirio
+Pregunta::Somalia
+Respuesta::somalí
+Pregunta::Sudáfrica
+Respuesta::sudafricano
+Pregunta::Sudán
+Respuesta::sudanés
+Pregunta::Suecia
+Respuesta::sueco
+Pregunta::Suiza
+Respuesta::suizo
+Pregunta::Surinam
+Respuesta::surinamés
+Pregunta::Sudán del Sur
+Respuesta::sursudanés
+Pregunta::Tailandia
+Respuesta::tailandés
+Pregunta::Taiwán
+Respuesta::taiwanés
+Pregunta::Tanzania
+Respuesta::tanzano
+Pregunta::Tayikistán
+Respuesta::tayiko
+Pregunta::Timor Oriental
+Respuesta::timorense
+Pregunta::Togo
+Respuesta::togolés
+Pregunta::Tokelau
+Respuesta::tokelauense
+Pregunta::Tonga
+Respuesta::tongano
+Pregunta::Trinidad y Tobago
+Respuesta::trinitense
+Pregunta::Túnez
+Respuesta::tunecino
+Pregunta::Turquía
+Respuesta::turco
+Pregunta::Turkmenistán
+Respuesta::turcomano
+Pregunta::Tuvalu
+Respuesta::tuvaluano
+Pregunta::Ucrania
+Respuesta::ucraniano
+Pregunta::Uganda
+Respuesta::ugandés
+Pregunta::Uruguay
+Respuesta::uruguayo
+Pregunta::Uzbekistán
+Respuesta::uzbeko
+Pregunta::Vanuatu
+Respuesta::vanuatense
+Pregunta::Venezuela
+Respuesta::venezolano
+Pregunta::Vietnam
+Respuesta::vietnamita
+Pregunta::Yemen
+Respuesta::yemení
+Pregunta::Yibuti
+Respuesta::yibutiano
+Pregunta::Zambia
+Respuesta::zambiano
+Pregunta::Zimbabue
+Respuesta::zimbabuense

@@ -1,0 +1,87 @@
+Tema::Programación orientada a objetos
+Pregunta::¿Qué es la Programación Orientada a Objetos?
+Respuesta::Es una metodología de trabajo.
+Pregunta::¿Qué nos proporciona la POO de cara al desarrollo?
+Respuesta::Un nivel más alto de abstracción.
+Pregunta::¿Qué nos proporciona la abstracción durante el desarrollo?
+Respuesta::- Desarrollar programas desligados del Hardware o del SO.¶- Hacer que el programar sea más parecido al proceso de pensamiento y lenguaje humano.
+Pregunta::Ordena de menor a mayor abstracción:¶- Lenguajes estructurados y programación modular¶- Lenguaje ensamblador¶- Lenguaje máquina¶- Programación Orientada a objetos
+Respuesta::- Lenguaje máquina¶- Lenguaje ensamblador¶- Lenguajes estructurados y programación modular¶- Programación Orientada a objetos
+Pregunta::¿Cuales fueron los primeros indicios de la POO?
+Respuesta::Simula I y Simula 67, dos lenguajes de programación que planteaban su estructura mediante objetos e interacciones de éstos.
+Pregunta::¿Qué fue SmallTalk?
+Respuesta::Un lenguaje creado en 1970 por Alan Kay, pensado para el diseño de interfaces de usuario orientadas a objetos.
+Pregunta::¿Qué sucedió en al década de los 80 en cuanto a la POO?
+Respuesta::Surgieron Basic, Pascal y Fortran que incorporaban aspectos de la POO. El primer exponente de esta época fue C++ dado que innovó al incorporar la herencia múltiple.
+Pregunta::¿Por qué duranto los 90 la POO alcazó su máxima popularidad?
+Respuesta::Por el surgimiento de Java, crearo por SUN Microsystems en 1995. Innovó al ser ejecutado en una máquina virtual.
+Pregunta::¿Cómo contribuyó Microsoft a la POO?
+Respuesta::En 2002, Microsoft publicó el entorno .Net. El lenguaje más conocido de este entorno fue C#.
+Pregunta::¿Cuál es la función de un objeto en POO?
+Respuesta::Simular elementos del mundo real, teniendo cada elemento propiedades y comportamientos concretos.
+Pregunta::¿Qué es un atributo?
+Respuesta::Son la propiedades de un objeto, cuantifican y definen el estado del objeto.
+Pregunta::¿Qué son los métodos?
+Respuesta::Son cada operación que se puede realizar con el objeto y, en conjunto, definen su comportamiento. Cada interacción que recibe un objeto se llama operación.
+Pregunta::Define clase
+Respuesta::Es la especificación formal de los atributos y los métodos (o operaciones) que un conjunto de objetos comparten y se suele utilizar para generarlos a modo de plantilla.
+Pregunta::¿Qué es un objeto?
+Respuesta::Es una instancia de una instancia de una clase.
+Pregunta::Un objeto es instanciado cuando se crea dentro de la aplicación.
+Respuesta::Una vez instanciado siempre pertenecerá a la misma clase.
+Pregunta::¿Cuando se llama a un método de un objeto para modificar sus atributos, también se modifican los de los otros objetos de la misma clase?
+Respuesta::No, las modificaciones solo afectaran al objetos sobre el cual se realizan.
+Pregunta::¿Qué es el UML?
+Respuesta::Es un lenguaje que permite especificar gráficamente, un programa orientado a objetos.
+Pregunta::¿Qué es un constructor?
+Respuesta::Un método de clase que inicia los atributos de un objeto durante su instancia.¶Opcionalmente, puede tener parámetros de entrada para que sean asignados a los atributos tal y como especifiquemos en el constructor.
+Pregunta::¿Qué diferencia hay entre declarar un objeto y crearlo?
+Respuesta::Declaramos un objetos cuando establecemos los atributos de una clase y lo creamos cuando los inicializamos en el constructor.
+Pregunta::¿Diferencia entre los modificadores de acceso Public, Private, Protected?
+Respuesta::- Public: visible para cualquier clase u objeto.¶- Private: visible únicamente para métodos de la própia clase.¶- Protected: visible para clases derivadas y private el resto de clases.¶- Sin identificador: Public para las clases del mismo paquete y private para el resto de clases.
+Pregunta::¿Qué es la sobrecarga de métodos?
+Respuesta::Una funcionalidad que permite tener varios métodos con el mismo nombre. Dichos métodos se diferencian por el número y tipo de parámetros de entrada. Pueden tener retornos de tipo diferente pero ésto no son suficiente para diferenciar dos métodos sobrecargados.
+Pregunta::¿Para qué sirve la palabra "this"?
+Respuesta::Para referirnos al objeto sobre el cual se ejecuta al método. La podemos utilizar para referirnos a los métodos (incluyendo el constructor), los atributos y los métodos de dicho objeto.
+Pregunta::¿Qué función tiene el identificador "static"?
+Respuesta::- Al asignarlo a un atributo de una clase, hacemos que al modificar dicho atributo se modifique en todos los objetos de la clase.¶- Al asignarlo a métodos, nos permite acceder a dichos métodos sin necesidad de crear objetos de la clase que los contiene.
+Pregunta::¿En qué consiste el principio de encapsulación?
+Respuesta::Quien no participa en el diseño o desarrollo de una clase, la puede usar pero sin necesidad de saber su estructura interna.
+Pregunta::¿Cuáles son los objetivos del principio de encapsulación?
+Respuesta::1. Minimizar las implicaciones en el proyecto, de cualquier modificación posterior en una clase.¶2. Aplicar la programación defensiva. Un objecto será siempre consistente y sus atributos tendrán valores correctos. Para garantizar la consistencia interna los atributos serán privados y los métodos públicos serán los responsables de garantizar la consistencia de los datos.
+Pregunta::¿Qué es la herencia en programación?
+Respuesta::Es la capacidad de definir una clase tan solo especificando las diferencias respecto a otra clase previamente definida. En el resto de aspectos se considera que se comporta igual.¶Se pueden establecer diferentes niveles de herencia o establecer varias clases que heredan de la misma; creando así una jerarquía de clases.
+Pregunta::¿Cómo se especifican mutuamente dos clases relacionadas por herencia?
+Respuesta::Superclase y Subclase.
+Pregunta::¿Qué características aporta la herencia a un proyecto?
+Respuesta::1. Cualquier propiedad o comportamiento definido en una clase se propaga por todas sus subclases.¶2. La herencia aporta la capacidad de definir objetos que pertenecen a diferentes clases al mismo tiempo.
+Pregunta::¿Con qué palabra se especifica que la clase que estamos definiendo hereda de una superclase?
+Respuesta::Con la palabra "extends".
+Pregunta::¿Qué son las clases abstractas?
+Respuesta::Son clases que no se pueden instanciar. Funcionan como superclases de otras clases en una jerarquía.¶Se pueden especificar métodos y atributos ya que son heredados por todas sus subclases.¶Se define con el identificador "abstract".
+Pregunta::¿En qué consiste la pérdida de identidad de un objeto?
+Respuesta::Dado que dentro de una jerarquía de clases, un objeto tiene diferentes tipos; es posible asignarlo a una variable de cualquiera de los tipos a los que pertenece. Su clase o cualquiera de sus superclases.
+Pregunta::¿Java soporta la heréncia múltiple?
+Respuesta::No la soporta. Una clase solo puede heredar de una sola superclase.
+Pregunta::¿Qué pasos sigue la máquina virtual durante la construcción de un objeto mediante el operador new?
+Respuesta::1. Reservar memória para guardar el objetos, Inicializando todos sus atributos en 0,false o null en función del tipo de atributo.¶2. Ejecutar las inicializaciones explícitas.¶3. Ejecutar el constructor correspondiente.
+Pregunta::¿Para qué sirve la palabra super?
+Respuesta::Realiza la misma función que "this" pero refiriéndose a la clase o superclases. Si se quiere utilizar para acceder al constructor superior (super();) solo se puede escribir la sentencia en la primera linea del constructor base.
+Pregunta::¿En qué consiste el polimorfismo?
+Respuesta::Consiste en definir un mismo método en diferentes clases, con implementaciones diferentes. De manera que podremos acceder a ellos distintivamente según la clase y el objetos sobre el que se llame.
+Pregunta::¿En qué consiste la sobreescritura?
+Respuesta::Consiste en redefinir un método en una subclase, de manera que tenga un comportamiento diferente que el de al superclase.
+Pregunta::¿Qué tenemos que tener en cuenta de cara a la sobreescritura de métodos?
+Respuesta::- El tipo de retorno debe ser igual.¶- El método de la clase derivada no puede ser menos accesible que el de la superclase.¶- El método de la clase derivada no puede provocar más excepciones que el de la superclase.
+Pregunta::¿Cuando se llama una operación sobre un objeto que ha la ha sobreescrito, que método se ejecuta?
+Respuesta::Siempre el método definido en al clase al que pertenece el objeto.
+Pregunta::¿Cuándo una operación es abstracta?
+Respuesta::Cuando no tiene ningun método asociado. El código se obtiene mediante su sobre escritura en las subclases.
+Pregunta::¿Una clase no abstracta puede tener operaciones abstractas?
+Respuesta::No, toda clase con operaciones abstractas es una clase abstracta.
+Pregunta::¿Qué sucede si no se sobreescriben todas las operaciones abstractas de una clase abstracta?
+Respuesta::Que la subclase tambien es abstracta, ya que las operaciones no sobreescritas continúan siendo abstractas y son heredadas.
+Pregunta::¿Qué es una interface en java?
+Respuesta::Es una maqueta contenedora con un conjunto de métodos públic abstractos y posibles atributos que obligatóriamente deben considerarse static y final.
+Pregunta::¿Se puede realizar herencia de dos Interfaces diferentes?
+Respuesta::Si, la herencia múltiple está permitida con la interfaces en java.

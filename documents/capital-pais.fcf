@@ -1,0 +1,387 @@
+Tema::Ciudades capital de los países
+Pregunta::Abu Dhabi
+Respuesta::Emiratos Árabes Unidos
+Pregunta::Abuya
+Respuesta::Nigeria
+Pregunta::Accra
+Respuesta::Ghana
+Pregunta::Adís Abeba
+Respuesta::Etiopía
+Pregunta::Al-Kuwait
+Respuesta::Kuwait
+Pregunta::Ammán
+Respuesta::Jordania
+Pregunta::Ámsterdam
+Respuesta::Países Bajos
+Pregunta::Andorra la Vieja
+Respuesta::Andorra
+Pregunta::Ankara/Estambul
+Respuesta::Turquía
+Pregunta::Antananarivo
+Respuesta::Madagascar
+Pregunta::Apia
+Respuesta::Samoa
+Pregunta::Argel
+Respuesta::Argelia
+Pregunta::Asjabad
+Respuesta::Turkmenistán
+Pregunta::Asmara
+Respuesta::Eritrea
+Pregunta::Asunción
+Respuesta::Paraguay
+Pregunta::Atenas
+Respuesta::Grecia
+Pregunta::Bagdad
+Respuesta::Iraq
+Pregunta::Bakú
+Respuesta::Azerbaiyán
+Pregunta::Bamako
+Respuesta::Malí
+Pregunta::Bandar Seri Begawan
+Respuesta::Brunéi
+Pregunta::Bangkok
+Respuesta::Tailandia
+Pregunta::Bangui
+Respuesta::República Centroafricana
+Pregunta::Banjul
+Respuesta::Gambia
+Pregunta::Basseterre
+Respuesta::San Cristóbal de las Nieves
+Pregunta::Beirut
+Respuesta::Líbano
+Pregunta::Belgrado
+Respuesta::Serbia
+Pregunta::Belmopán
+Respuesta::Belice
+Pregunta::Berlín
+Respuesta::Alemania
+Pregunta::Berna
+Respuesta::Suiza
+Pregunta::Biskek
+Respuesta::Kirguistán
+Pregunta::Bissau
+Respuesta::Guinea-Bissau
+Pregunta::Bloemfontein/Pretoria/Ciudad del Cabo
+Respuesta::Sudáfrica
+Pregunta::Bogotá
+Respuesta::Colombia
+Pregunta::Brasilia
+Respuesta::Brasil
+Pregunta::Bratislava
+Respuesta::Eslovaquia
+Pregunta::Brazzaville
+Respuesta::República del Congo
+Pregunta::Bridgetown
+Respuesta::Barbados
+Pregunta::Bruselas
+Respuesta::Bélgica
+Pregunta::Bucarest
+Respuesta::Rumania
+Pregunta::Budapest
+Respuesta::Hungría
+Pregunta::Buenos Aires
+Respuesta::Argentina
+Pregunta::Canberra
+Respuesta::Australia
+Pregunta::Caracas
+Respuesta::Venezuela
+Pregunta::Castries
+Respuesta::Santa Lucía
+Pregunta::Chesenáu
+Respuesta::Moldavia
+Pregunta::Ciudad de Guatemala
+Respuesta::Guatemala
+Pregunta::Ciudad de México
+Respuesta::México
+Pregunta::Ciudad de San Marino
+Respuesta::San Marino
+Pregunta::Ciudad del Vaticano
+Respuesta::Ciudad del Vaticano
+Pregunta::Conakry
+Respuesta::Guinea
+Pregunta::Copenhague
+Respuesta::Dinamarca
+Pregunta::Dakar
+Respuesta::Senegal
+Pregunta::Damasco
+Respuesta::Siria
+Pregunta::Dhaka
+Respuesta::Bangladesh
+Pregunta::Dili
+Respuesta::Timor Oriental
+Pregunta::Dodoma
+Respuesta::Tanzania
+Pregunta::Doha
+Respuesta::Qatar
+Pregunta::Dublín
+Respuesta::Irlanda
+Pregunta::Dushambé
+Respuesta::Tayikistán
+Pregunta::El Cairo
+Respuesta::Egipto
+Pregunta::Estocolmo
+Respuesta::Suecia
+Pregunta::Freetown
+Respuesta::Sierra Leona
+Pregunta::Funafuti
+Respuesta::Tuvalu
+Pregunta::Gaborone
+Respuesta::Botsuana
+Pregunta::Georgetown
+Respuesta::Guyana
+Pregunta::Guitega/Buyumbura
+Respuesta::Burundi
+Pregunta::Hanói
+Respuesta::Vietnam
+Pregunta::Helsinki
+Respuesta::Finlandia
+Pregunta::Honiara
+Respuesta::Islas Salomón
+Pregunta::Islamabad
+Respuesta::Pakistán
+Pregunta::Jartum
+Respuesta::Sudán
+Pregunta::Jerusalén
+Respuesta::Israel
+Pregunta::Kabul
+Respuesta::Afganistán
+Pregunta::Katmandú
+Respuesta::Nepal
+Pregunta::Kiev
+Respuesta::Ucrania
+Pregunta::Kigali
+Respuesta::Ruanda
+Pregunta::Kingston
+Respuesta::Jamaica
+Pregunta::Kingstown
+Respuesta::San Vicente y las Granadinas
+Pregunta::Kinsasa
+Respuesta::República Democrática del Congo
+Pregunta::Kuala Lumpur
+Respuesta::Malasia
+Pregunta::La Habana
+Respuesta::Cuba
+Pregunta::La Valeta
+Respuesta::Malta
+Pregunta::Libreville
+Respuesta::Gabón
+Pregunta::Lilongwe
+Respuesta::Malawi
+Pregunta::Lima
+Respuesta::Perú
+Pregunta::Lisboa
+Respuesta::Portugal
+Pregunta::Liubliana
+Respuesta::Eslovenia
+Pregunta::Lomé
+Respuesta::Togo
+Pregunta::Londres
+Respuesta::Reino Unido
+Pregunta::Luanda
+Respuesta::Angola
+Pregunta::Lusaka
+Respuesta::Zambia
+Pregunta::Luxemburgo
+Respuesta::Luxemburgo
+Pregunta::Madrid
+Respuesta::España
+Pregunta::Majuro
+Respuesta::Islas Marshall
+Pregunta::Malabo
+Respuesta::Guinea Ecuatorial
+Pregunta::Malé
+Respuesta::Maldivas
+Pregunta::Managua
+Respuesta::Nicaragua
+Pregunta::Manama
+Respuesta::Bahréin
+Pregunta::Manila
+Respuesta::Filipinas
+Pregunta::Maputo
+Respuesta::Mozambique
+Pregunta::Mascate
+Respuesta::Omán
+Pregunta::Maseru
+Respuesta::Lesoto
+Pregunta::Mbabane
+Respuesta::Esuatini
+Pregunta::Minsk
+Respuesta::Bielorrusia
+Pregunta::Mogadiscio
+Respuesta::Somalia
+Pregunta::Mónaco
+Respuesta::Mónaco
+Pregunta::Montevideo
+Respuesta::Uruguay
+Pregunta::Moroni
+Respuesta::Comoras
+Pregunta::Moscú
+Respuesta::Rusia
+Pregunta::Naipyidó
+Respuesta::Birmania
+Pregunta::Nairobi
+Respuesta::Kenia
+Pregunta::Nasáu
+Respuesta::Bahamas
+Pregunta::Ngerulmud
+Respuesta::Palaos
+Pregunta::Niamey
+Respuesta::Níger
+Pregunta::Nicosia
+Respuesta::Chipre
+Pregunta::Nouakchot
+Respuesta::Mauritania
+Pregunta::Nueva Delhi
+Respuesta::India
+Pregunta::Nukualofa
+Respuesta::Tonga
+Pregunta::Nur Sultán/Astana/Alma-atá
+Respuesta::Kazajistán
+Pregunta::Oslo
+Respuesta::Noruega
+Pregunta::Ottawa
+Respuesta::Canadá
+Pregunta::Ouagadougou
+Respuesta::Burkina Faso
+Pregunta::Palikir
+Respuesta::Micronesia
+Pregunta::Panamá
+Respuesta::Panamá
+Pregunta::Paramaribo
+Respuesta::Surinam
+Pregunta::París
+Respuesta::Francia
+Pregunta::Pekín
+Respuesta::China
+Pregunta::Phnom Penh
+Respuesta::Camboya
+Pregunta::Pionyang
+Respuesta::Corea del Norte
+Pregunta::Podgorica/Cetiña
+Respuesta::Montenegro
+Pregunta::Port Louis
+Respuesta::Mauricio
+Pregunta::Port Vila
+Respuesta::Vanuatu
+Pregunta::Porto-Novo
+Respuesta::Benín
+Pregunta::Praga
+Respuesta::República Checa
+Pregunta::Praia
+Respuesta::Cabo Verde
+Pregunta::Puerto España
+Respuesta::Trinidad y Tobago
+Pregunta::Puerto Moresby
+Respuesta::Papúa Nueva Guinea
+Pregunta::Puerto Príncipe
+Respuesta::Haití
+Pregunta::Quito
+Respuesta::Ecuador
+Pregunta::Rabat
+Respuesta::Marruecos
+Pregunta::Reikiavik
+Respuesta::Islandia
+Pregunta::Riad
+Respuesta::Arabia Saudita
+Pregunta::Riga
+Respuesta::Letonia
+Pregunta::Roma
+Respuesta::Italia
+Pregunta::Roseau
+Respuesta::Dominica
+Pregunta::Saint George's
+Respuesta::Granada
+Pregunta::Saint John's
+Respuesta::Antigua y Barbuda
+Pregunta::San José
+Respuesta::Costa Rica
+Pregunta::San Juan
+Respuesta::Puerto Rico (Estados Unidos)
+Pregunta::San Salvador
+Respuesta::El Salvador
+Pregunta::San'á
+Respuesta::Yemen
+Pregunta::Santiago de Chile/Valparaíso
+Respuesta::Chile
+Pregunta::Santo Domingo
+Respuesta::República Dominicana
+Pregunta::Santo Tomé
+Respuesta::Santo Tomé y Príncipe
+Pregunta::Sarajevo
+Respuesta::Bosnia y Herzegovina
+Pregunta::Seúl
+Respuesta::Corea del Sur
+Pregunta::Singapur
+Respuesta::Singapur
+Pregunta::Skopie
+Respuesta::Macedonia del Norte
+Pregunta::Sofía
+Respuesta::Bulgaria
+Pregunta::Sri Jayawardenapura Kotte/Colombo
+Respuesta::Sri Lanka
+Pregunta::Sucre
+Respuesta::Bolivia
+Pregunta::Suva
+Respuesta::Fiyi
+Pregunta::Tallín
+Respuesta::Estonia
+Pregunta::Tarawa
+Respuesta::Kiribati
+Pregunta::Tashkent
+Respuesta::Uzbekistán
+Pregunta::Tegucigalpa
+Respuesta::Honduras
+Pregunta::Teherán
+Respuesta::Irán
+Pregunta::Tiflis
+Respuesta::Georgia
+Pregunta::Timbú
+Respuesta::Bután
+Pregunta::Tirana
+Respuesta::Albania
+Pregunta::Tokio
+Respuesta::Japón
+Pregunta::Trípoli
+Respuesta::Libia
+Pregunta::Túnez
+Respuesta::Túnez
+Pregunta::Ulan Bator
+Respuesta::Mongolia
+Pregunta::Uruguay
+Respuesta::Infobox
+Pregunta::Vaduz
+Respuesta::Liechtenstein
+Pregunta::Varsovia
+Respuesta::Polonia
+Pregunta::Victoria
+Respuesta::Seychelles
+Pregunta::Viena
+Respuesta::Austria
+Pregunta::Vientián
+Respuesta::Laos
+Pregunta::Vilna
+Respuesta::Lituania
+Pregunta::Washington D. C.
+Respuesta::Estados Unidos
+Pregunta::Wellington
+Respuesta::Nueva Zelanda
+Pregunta::Windhoek
+Respuesta::Namibia
+Pregunta::Yakarta
+Respuesta::Indonesia
+Pregunta::Yamena
+Respuesta::Chad
+Pregunta::Yamusukro
+Respuesta::Costa de Marfil
+Pregunta::Yaren
+Respuesta::Nauru
+Pregunta::Yaundé
+Respuesta::Camerún
+Pregunta::Yereván
+Respuesta::Armenia
+Pregunta::Yibuti
+Respuesta::Yibuti
+Pregunta::Yuba
+Respuesta::Sudán del Sur
+Pregunta::Zagreb
+Respuesta::Croacia

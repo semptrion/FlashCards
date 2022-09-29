@@ -1,0 +1,101 @@
+Tema::Kotlin
+Pregunta::¿Qué es kotlin?
+Respuesta::Lenguaje de programación orientado principalmente a objetos de calidad industrial, desarrollado por Jetbrains a partir de 2010.
+Pregunta::¿Cuáles son los principales usos que se le pueden dar a Kotlin?
+Respuesta::Puede usarse en servidores, en sitios web, en IOS y es el lenguaje oficial para desarrollar en Android desde 2017.
+Pregunta::Ventajas de Kotlin
+Respuesta::- Se ejecuta en la Máquina Virtual de Java (JVM).¶- Es interoperable con JavaScript.¶- Comparado con otros lenguajes, reduce la repetición de código reduciendo recursos y tiempo¶- Permite encontrar más fácilmente errores.
+Pregunta::¿Qué relación hay entre Java y Kotlin?
+Respuesta::Ambos corren bajo la máquina virtual de Java (JVM), es decir, que al ser compilados generan el mismo tipo de archivo (Bytecode.class), pero Kotlin necesita menos líneas de código para hacer exactamente lo mismo, por lo cual es más fácil de aprender.
+Pregunta::¿Cuáles son los requerimientos para programar con Kotlin?
+Respuesta::JDK (Java SE Development Kit).¶Un editor de código (Intellij IDEA, Android Studio...).¶Conocimientos básicos de programación.
+Pregunta::¿Cuáles son las principales características de Kotlin?
+Respuesta::Es seguro, conciso, interoperable y fácil de usar.
+Pregunta::¿Porque se dice que Kotlin es conciso?
+Respuesta::Porque reduce drásticamente la cantidad código repetitivo.
+Pregunta::¿Porque se dice que Kotlin es seguro?
+Respuesta::Porque evita errores como excepciones de puntero nulo
+Pregunta::¿Por qué se dice que Kotlin es interoperable?
+Respuesta::Porque aprovecha las bibliotecas existentes para JVM, Android y el navegador.
+Pregunta::¿Por qué se dice que kotlin es fácil de usar?
+Respuesta::Se puede elegir cualquier IDE de Java o compilar desde la línea de comandos.
+Pregunta::Pasos para crear un proyecto en Kotlin
+Respuesta::1. Seleccionar un proyecto de tipo android.¶2. Instalar el SDK de Android¶3. Ingresar los datos del proyecto: nombre, paquete, ubicación y lenguaje.¶3. Elegir dispositivos donde correrá la aplicación (versión de Android)¶4. Seleccionar tipo de actividad
+Pregunta::¿Cuáles son las principales carpetas en Kotlin?
+Respuesta::.gradle, .idea, .app, Gradle, External libraries
+Pregunta::¿Cuál es la función de la carpeta .gradle?
+Respuesta::Es la aplicación que se encarga de la compilación, integración en interoperabilidad.
+Pregunta::¿Cuál es la función de la carpeta .idea?
+Respuesta::Contiene las configuraciones del IDE
+Pregunta::¿Cuál es la función de la carpeta .app?
+Respuesta::Es la carpeta que contiene el código que escribimos.
+Pregunta::¿Cuál es la función de la carpeta Gradle?
+Respuesta::Contiene las configuraciones de gradle, versiones y paths.
+Pregunta::¿Cuál es la función de la carpeta External Libraries?
+Respuesta::Contiene librerías de terceros como la conexión a la base de datos, apis, services, etc.
+Pregunta::¿Cuáles son los principales archivos en Kotlin?
+Respuesta::.gitignore, Gradle.properties, Gradlew, Gradlew.bat, Setting.gradle
+Pregunta::¿Cuál es la función del archivo .gitignore?
+Respuesta::Son archivos que no se sincronizan en el repositorio.
+Pregunta::¿Cuál es la función del archivo Gradle.properties?
+Respuesta::Contiene una lista de propiedad a compilar en el proyecto.
+Pregunta::¿Cuál es la función del archivo Gradlew?
+Respuesta::Son comandos a ejecutar en Linux para integrar el proyecto
+Pregunta::¿Cuál es la función del archivo Gradlew.bat?
+Respuesta::Comandos a ejecutar en Windows para integrar el proyecto.
+Pregunta::¿Cuál es la función del archivo Setting.gradle?
+Respuesta::Es un script que ejecuta cada uno de los scripts en caso de ser necesario.
+Pregunta::¿Cuáles son los pasos para emular en teléfono para ejecutar aplicaciones Kotlin?
+Respuesta::1. Ejecutar el ADV (Android Virtual Device)¶2. Crear un Dispositivo Virtual¶3. Descargar una imagen de un dispositivo¶4. Configurar las características del dispositivo¶5. Ejecutar el dispositivo desde Android Studio o la Terminal
+Pregunta::¿Qué es el Path del sistema?
+Respuesta::Es una variable del sistema que utiliza el sistema operativo para buscar los ejecutables necesarios desde la línea de comandos o la ventana Terminal.
+Pregunta::¿Cuál es el comando para ver todos los dispositivos virtuales desde la terminal ?
+Respuesta::emulator -list-avds
+Pregunta::¿Cuál es el comando para emular u dispositivo virtual?
+Respuesta::emulator -avd NombreDelDispositivoVirtual
+Pregunta::Pasos para conectar un teléfono físico a Android Studio
+Respuesta::1. Descargar e instalar los drivers a nuestro teléfono.¶2. Agregamos el Path de Android platform-tools al entorno de variables.¶2. Habilitar la opción de desarrolladores en el teléfono.¶3. Comprobar que el teléfono se detecte en el adb (Android Device Bridge).¶4. En Android Studio seleccionamos el teléfono como dispositivo a correr y se ejecuta el programa.
+Pregunta::Comandos para ver los dispositivos físicos conectados:
+Respuesta::adb¶adb devices
+Pregunta::¿Qué es una activity?
+Respuesta::Es el componente principal en una aplicación Android. Se encarga de manejar la interacción del usuario mediante el uso de una interfaz gráfica; cada pantalla de una aplicación es una actividad.
+Pregunta::¿Cuál es el ciclo de vida de una actividad?
+Respuesta::Una actividad pasa por varios estados o callbacks. Van desde antes de iniciarla, cuando está en ejecución y después de finalizar.
+Pregunta::Es el estado en el que se encuentra una actividad cuando está en primer plano y el usuario puede interactuar con ella:
+Respuesta::Actividad en ejecución/activa
+Pregunta::? Cuál es la función del método onCreate()?
+Respuesta::Se inicia cuando se lanza la aplicación (pero todavía no es visible), dentro de él se coloca el código que inicializa las principales funciones.¶Infla los widgets y los posiciona en la pantalla¶Obtiene las referencias de los widgets¶Asigna listeners a los widgets para que el usuario pueda interactuar con ellos.
+Pregunta::¿Cuál es la función del método onStart()?
+Respuesta::Es llamando después del método onCreate (), y es el momento cuando la actividad está a punto de volverse visible.
+Pregunta::¿Cuál es la función del método onResume()?
+Respuesta::Es llamado después de onStart(). La actividad pasa a primer plano y se vuelve visible al usuario, pudiendo interactuar con los elementos o widgets que existan en la pantalla.
+Pregunta::¿Cuál es la función del método onPause()?
+Respuesta::Es llamado cuando la actividad pierde el foco o deja de estar en primer plano.
+Pregunta::¿Qué acciones pueden causar el método onPause()?
+Respuesta::El usuario presiona el botón Home o de aplicaciones recientes.
+Pregunta::¿Cuáles son los dos caminos que puede tomar la activity después de ser llamando el medio onPause()?
+Respuesta::1. Se ejecuta el método onResume() y la aplicación vuelve a estar en primer plano.¶2. Se ejecuta la aplicación onStop() y la aplicación deja de ser visible al usuario.
+Pregunta::¿Cuál es la función del método onStop()?
+Respuesta::Es llamado cuando deja de ser visible. Puede ser causado porque la actividad fue destruida, o una nueva actividad está siendo lanzada o una actividad existente vuelve a estar en primer plano.
+Pregunta::¿Cuáles son los dos caminos que puede tomar una actividad luego de ser llamado el método onStop()?
+Respuesta::1. Se llama al método onRestart() cuando el usuario eligió colocar la actividad en primer plano.¶2. Se llama al método onDestroy() si la actividad es destruida.
+Pregunta::¿Cuál es la función del método onDestroy ()?
+Respuesta::Es llamado cuando el usuario da por finalizada la interacción con la actividad, permitiendo liberar recursos que eran usados por la actividad.
+Pregunta::¿Cuáles son los cuatro estados que puede poseer una actividad?
+Respuesta::Inexistente, detenida(onStop()),¶pausada(onPause()) o en ejecución(onResume()).
+Pregunta::¿Qué es una contexto de aplicación?
+Respuesta::Es un contexto de navegación de nivel superior que tiene aplicado un manifiesto.
+Pregunta::¿Qué es un contexto de navegación?
+Respuesta::Es el entorno en el que un navegador muestra un documento (pestaña, frame dentro de una pagina). Tiene un origen específico, el origen del documento activo y un historial que enumera los documentos mostrados en orden.
+Pregunta::¿Qué es declarar una variable de forma explícita?
+Respuesta::Es cuando a la variable se le indica el tipo que es.
+Pregunta::¿Qué es declarar una variable de forma deducida?
+Respuesta::Kotlin deduce el tipo de la variable
+Pregunta::¿Qué es una función?
+Respuesta::Es un conjunto de líneas de código que realizan una tarea en concreto
+Pregunta::¿Qué son los parámetros o argumentos de una función?
+Respuesta::Son variables que modifican su comportamiento.
+Pregunta::¿Cuál es la principal ventaja de las funciones?
+Respuesta::Permiten segmentar el código en diferentes partes, haciéndolo más sencillo.
+Pregunta::¿Qué tipo de parámetros puede tener una función?
+Respuesta::Parámetros de entrada y de salida

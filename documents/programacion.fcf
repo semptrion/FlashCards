@@ -1,0 +1,237 @@
+Tema::Programación I
+Pregunta::Reglas de la programación estructurada
+Respuesta::Secuencia: Realiza un proceso paso por paso.¶Iteración: Acción de repetir una serie de pasos un cierto número de veces.¶Decisión: Decidir que procesos de van a realizar.
+Pregunta::Secuencia
+Respuesta::Indica que las instrucciones del código se lean de principio a fin
+Pregunta::Iteración
+Respuesta::Indica según cierta condición, un número de instrucciones podrían repetirse un número determinado de veces
+Pregunta::Decisión
+Respuesta::Indica que según ciertas condiciones, se ejecutarán o no un conjunto de instrucciones
+Pregunta::Ciclo de vida de un sistema de información
+Respuesta::Enfoque por fases del análisis y diseño que sostiene que los sistema son desarrollados de mejor manera mediante el uso de un ciclo específico de actividades del analista y del usuario
+Pregunta::Fases del ciclo de vida
+Respuesta::1) Identificación de problemas, oportunidades y objetivos.¶2) Determinación de los requerimientos de información.¶3) Análisis de las necesidades del sistema.¶4) Diseño del sistema recomendado.¶5) Desarrollo y documentación del software.¶6) Pruebas y mantenimiento del sistema.¶7) Implementación y evaluación del sistema.
+Pregunta::Identificación de problemas, oportunidades y objetivos.
+Respuesta::Un informe de viabilidad que incluye una definición del problema y un resumen de los objetivos.
+Pregunta::Determinación de los requerimientos de información
+Respuesta::El analista debe conocer el funcionamiento del negocio.
+Pregunta::Análisis de las necesidades del sistema
+Respuesta::El analista prepara una propuesta de sistemas que sintetiza sus hallazgos, proporciona un análisis de costo/beneficio de las alternativas y ofrece recomendaciones sobre lo que se debe hacer.
+Pregunta::Diseño del sistema recomendado
+Respuesta::El analista debe diseñar controles y procedimientos de respaldo que protejan al sistema y a los datos.
+Pregunta::Desarrollo y documentación del software
+Respuesta::El analista trabaja con programadores para desarrollar el software.
+Pregunta::Diagramas de estructura y pseudocódigo.
+Respuesta::Los programadores diseñan, codifican y eliminan errores sintácticos de los programas de cómputo.
+Pregunta::Prueba y mantenimiento del sistema
+Respuesta::El mantenimiento del sistema de información y su documentación empieza en esta fase.
+Pregunta::Implementación y evaluación del sistema
+Respuesta::En esta fase se capacita a los usuarios en el manejo del sistema.
+Pregunta::Normalización
+Respuesta::Es una técnica que se utiliza para comprobar la validez de los esquemas lógicos basados en el modelo racional.
+Pregunta::Pasos para la normalización
+Respuesta::1) Quitar todos los grupos repetitivos e identificar la clave primaria¶2) Asegurar que todos los atributos sin clave son totalmente dependientes de la clave primaria.¶3) Remueve cualquier dependencia transitiva.
+Pregunta::Programación estructurada
+Respuesta::Permite la escritura de programas fáciles de leer y modificar.
+Pregunta::Estructuras de control básicas
+Respuesta::Secuenciales, repetitivas y selectivas
+Pregunta::Estructura secuencial
+Respuesta::Una acción sigue a otra en secuencia.
+Pregunta::Estructura selectiva
+Respuesta::Se utilizan para tomar desiciones lógicas.
+Pregunta::Estructuras repetitivas
+Respuesta::Las estructuras que repiten una secuencia de instrucciones un número determinado de veces, se llaman bucles.
+Pregunta::Segmentos
+Respuesta::Se denominan programas propios, cada uno tiene solamente una entrada y una salida.
+Pregunta::Ventajas de la programación estructurada
+Respuesta::Programas son más fáciles de entender.¶Reducción del esfuerzo en ls pruebas.¶Reducción de los costos de mantenimiento.
+Pregunta::Programación orientada a objetos(POO)
+Respuesta::Es un paradigma de programación que usa objetos y sus interacciones para diseñar aplicaciones y programas de computadora.
+Pregunta::Objetos
+Respuesta::Entidades que combinan estado, comportamiento e identidad.
+Pregunta::Identidad
+Respuesta::Es una propiedad de un objeto que lo diferencia del resto.
+Pregunta::Métodos
+Respuesta::Mecanismos de interacción
+Pregunta::Propiedad de conjunto
+Respuesta::Propiedad que destaca que una clase requiere de métodos para poder tratar los tributos con los que cuenta.
+Pregunta::Características de la POO
+Respuesta::Herencia,¶Cohesión,¶Abstracción,¶Polimorfismo,¶Acoplamiento y¶Encapsulamiento
+Pregunta::Herencia
+Respuesta::Propiedad que permite a los objetos construirse a partir de otros objetos.
+Pregunta::Estructura general de un programa
+Respuesta::Encabezados¶Cuerpo principal¶Constantes y varibles¶Expresiones y comandos¶Procedimientos¶Cierre y terminación
+Pregunta::Constantes
+Respuesta::Objetos que mantienen su valor durante toda la ejecución del programa.
+Pregunta::Variable
+Respuesta::Contiene un valor que puede modificarse a lo largo de la ejecución de la aplicación.
+Pregunta::Atributos de una variable
+Respuesta::Ámbito (En que parte la variable es conocida y puede utilizarse)¶Nombre (Nombre que usamos para referirnos a la variable)¶Tipo (Qué clase de valores puede almacenarse)
+Pregunta::Procedimiento
+Respuesta::Es un segmento de código independiente del resto, que ejecuta un número determinado de instrucciones, sin necesidad de devolver ningún valor al mismo.
+Pregunta::Pasos en la elaboración de un programa
+Respuesta::1) Captura de un programa.¶2) Depuración de un programa.¶3) Ejecución de un programa.¶4) Intérpretes y compiladores.¶5) Programas ejecutables.
+Pregunta::Intérpretes
+Respuesta::Es un traductor que toma un programa fuente y a continuación lo ejecuta.
+Pregunta::Compiladores
+Respuesta::Es un programa que traduce los programas fuetes escritos en lengua de alto nivel a lenguaje máquina.
+Pregunta::Dato
+Respuesta::Expresión general que describe los objetos con los cuales opera una organización
+Pregunta::Tipos de datos
+Respuesta::Simples (Númericos Logicos Carácter)¶Compuestos (Arrays Unidimencionales, Arrays Multidimencionales, Arrays estaticos, dinámicos, Arrays de controles)
+Pregunta::Datos numéricos
+Respuesta::Es conjunto de los valores numéricos¶Entero (Integer)¶Real (real)
+Pregunta::Datos lógicos
+Respuesta::booleanos, aquel que solo puede tomar uno de dos valores.¶Verdadero (True), Falso (False).
+Pregunta::Datos tipos caracter
+Respuesta::Conjunto finito y ordenado de caracteres que la computadora reconoce.¶Alfabéticos(ABC)¶Numéricos(123)¶Especiales(+,/,-)¶Strings(" ")
+Pregunta::Identificadores
+Respuesta::Secuencia de caracteres que puede ser de cualquier longitud, pero sólo los 63 primeros caracteres son significativos.
+Pregunta::Declarar una variable
+Respuesta::Decirle al programa algo de antemano
+Pregunta::Declaración implícita
+Respuesta::No tiene por que declarar una variable antes de utilizarla.
+Pregunta::Declaración explícita
+Respuesta::Si tiene que declarar una variable antes de usarse con el propósito de evitar equivocaciones.
+Pregunta::Ambito de una variable
+Respuesta::Define la visibilidad de una variable, procedimiento u objeto.
+Pregunta::Niveles de ambito
+Respuesta::Local¶Módulo/Componente¶Publico¶
+Pregunta::Ámbito local
+Respuesta::Una variable definida a nivel de procedimiento que es visible sólo en el procedimiento donde fue declarado.
+Pregunta::Ámbito módulo
+Respuesta::Una variable declarada a este nivel es visible en todos los procedimientos dentro del módulo/formulario.
+Pregunta::Ámbito público
+Respuesta::Una variable declarada a nivel de módulo o formulario que es visible a todos los procedimientos dentro del proyecto.
+Pregunta::Contadores
+Respuesta::Son variables que se incrementa y/o decrementan en un valor constante
+Pregunta::Acumuladores
+Respuesta::Son variables que se incremente y/o decremente en una cantidad variable.
+Pregunta::Al-Juarismi, aportes
+Respuesta::1. Introdujo el sistema numérico posicional a Europa¶2. Escribió obras didácticas que se distribuyeron en el Imperio Islámico y eventualmente llegaron a Europa¶3. De su obra provienen las palabras álgebra y algoritmo¶4. En el siglo 12 su obra fue traducida al latín, donde su nombre fue escrito como Algorithmi.
+Pregunta::Arboles sintácticos
+Respuesta::Es una representación gráfica de las expresiones¶• También se conocen como "árboles de expresión"¶• Su estructura es la de un árbol binario¶• Los operadores son nodos que se conectan con sus operandos¶• Los valores y variables también son nodos en el árbol, pero no se conectan con más nodos
+Pregunta::Función
+Respuesta::Conjunto de pasos que realiza algún trabajo¶Usualmente no genera cambios en el estado¶Usualmente recibe parámetros Retorna un valor
+Pregunta::Paradigma Orientado a Objetos
+Respuesta::En este paradigma las variables son vistas como referencias a objetos que se encuentran en memoria¶• Se llaman referencias¶• Cuando se asigna una variable a otra se comparte la referencia, ambas apuntan al mismo objeto en memoria¶• Si ocurre un cambio en el objeto, será visible para ambas variables
+Pregunta::Operaciones aritméticas disponibles
+Respuesta::• Suma +¶• Resta -¶• Multiplicación *¶• División /¶• División entera //¶• Módulo o residuo %¶• Exponente ** ^
+Pregunta::Al-Juarismi
+Respuesta::1. Matemático, astrónomo, geógrafo.¶2. Persa musulmán¶3. Hizo aportes matemáticos que se mantienen vigentes.¶4. Para muchos, el más grande matemático de su época.¶5 Considerado padre del álgebra.
+Pregunta::Al-Juarismi, educación
+Respuesta::- Se educa en una institución de investigación y traducción de Bagdad llamada Casa de la Sabiduría¶- Personas educadas se reunían para traducir al árabe obras científicas y filosóficas griegas e hindúes.¶- Tenían acceso a observatorios astronómicos
+Pregunta::Por qué existen los algoritmos
+Respuesta::Existen para facilitar nuestra vida diaria
+Pregunta::A donde han llegado los algoritmos en la actualidad
+Respuesta::Hoy en día han llegado a campos como la inteligencia artificial y biología molecular
+Pregunta::Un ejemplo del resultado de la evolución de los algoritmos es...
+Respuesta::Google: Al estar en la era de la información, se producen cantidades enormes de datos, y para interpretarlos es necesario el poder de
+Pregunta::¿Qué es un algoritmo?
+Respuesta::Secuencia ordenada y finita de instrucciones que permite llevar a cabo una actividad mediante pasos sucesivos no ambiguos
+Pregunta::Programa (características)
+Respuesta::1. Descripción formal del algoritmo¶2. Ejecutable en una máquina
+Pregunta::Diagrama de flujo (características)
+Respuesta::1. Representación gráfica¶2. Flujo de ejecución paso a paso¶3. Símbolos definidos¶4. Lectura humana o máquina (algunos)
+Pregunta::Pseudo código (características)
+Respuesta::1. Descripción de alto nivel¶2. Usa lenguaje natural¶3. Para la lectura humana
+Pregunta::Maneras de representar un algoritmo
+Respuesta::- Pseudocódigo¶- Diagrama de flujo¶- Programa
+Pregunta::El estudio de algoritmos inició como una
+Respuesta::rama de las matemáticas
+Pregunta::Características de un algoritmo
+Respuesta::- No ambiguo¶- Finito¶- Entradas (pueden ser 0 o más)¶- Salidas ( Debe tener al menos una)¶- Efectivo: Debe funcionar.
+Pregunta::¿Cómo nos ayudan los algoritmos?
+Respuesta::1. A decidir cuando existen muchas opciones.¶2. Búsqueda de inspiración (ayudar a encontrar lo que nos gusta)¶3. A tomar decisiones informadas sobre temas complejos o confusos¶4. Eficiencia: Poder delegar tareas menos valiosas o interesantes.
+Pregunta::Influencia de los algoritmos
+Respuesta::1. Con quien hablamos¶2. Lo que compramos.¶3. Dónde vamos¶4. Cuánto ganamos¶5. Escogiendo pareja
+Pregunta::Era de la información
+Respuesta::Periodo de la historia humana en que la industria tradicional es sustituida por una economía basada en tecnologías de información.
+Pregunta::Primeros algoritmos
+Respuesta::Algoritmos de cálculo en matemáticas
+Pregunta::Números enteros (¿subconjunto finito o infinito de los enteros matemáticos?)
+Respuesta::FINITO
+Pregunta::Ejemplo de notacion científica. 2,71828E-2 equivale a
+Respuesta::0,0271828
+Pregunta::Ejemplo de notacion científica. 271,828 equivale a
+Respuesta::2,71828E2
+Pregunta::Números reales son? Detalles?
+Respuesta::Números con decimales¶Balance entre rango y precisión¶Forma de notación científica¶Usualmente se les llama números de punto flotante¶r = coeficiente x base^exponente¶Coeficiente: número real con un solo digito entero¶Base: usualmente 10 y 2 en binario¶Exponente: al cual se eleva la base
+Pregunta::Clasificación de los valores (tipos de datos)
+Respuesta::Enteros (numérico)¶Reales (numérico)¶Booleanos¶Cadenas de caracteres (strings)
+Pregunta::Qué son tipos de datos, qué definen
+Respuesta::Define cuáles son los posibles valores que pueden darse¶Define las operaciones que pueden realizarse¶Nota: Cada lenguaje de programación tiene sus propios tipos de datos
+Pregunta::Definición de Valores
+Respuesta::Elementos fundamentales que manipula un algoritmo o programa. No pueden reducirse más. Pueden tener tipos (letras, números, etc.)
+Pregunta::Tipos de pruebas (método pólya)
+Respuesta::- Forma manual¶- Ejecutándolo (usando computador para ver resultados)¶- Pruebas de inducción matemática. (si funciona para un caso simple, funciona para casos generales)
+Pregunta::Al ejecutar el plan (método pólya), se traslada la solución a alguna representación...
+Respuesta::Pseudocódigo¶Diagrama de flujo¶Lenguaje de programación¶Diagrama de entradas, salidas y restricciones (ESR)¶Entradas: Datos necesarios para dar la solución¶Salidas: Resultados que brinda el programa¶Restricciones: Aspectos que limitan los valores de las entradas.
+Pregunta::Principios del Método Pólya
+Respuesta::- Entender el problema¶- Configurar un plan (pensar en algoritmo, en programación)¶- Ejecutar el plan (implementar el algoritmo)¶- Mirar hacia atrás
+Pregunta::George Pólya (1887-1985) Aportes
+Respuesta::- Combinatoria, teoría de números, análisis numérico, teoría de probabilidades¶"How to Solve It" (1945), sistema de pensamiento para resolver problemas matemáticos (método Pólya)
+Pregunta::Lenguaje de programación
+Respuesta::Representación formal de las instrucciones utilizadas en un algoritmo que puede ser interpretada por una máquina
+Pregunta::Como se caracteriza el Diagrama de flujo
+Respuesta::Muestra pasos como cajas de diferentes tipos¶Se conectan con flechas Ilustran la solución a un problema particular
+Pregunta::Como se caracteriza el Pseudocódigo
+Respuesta::Descripción informal de alto nivel de un algoritmo¶Utiliza convenciones de lenguajes de programación¶Destinado a la lectura humana • Omite detalles¶Puede incluir lenguaje natural o notación matemática
+Pregunta::Aplicar una operación aritmética a dos valores numéricos da como resultado
+Respuesta::otro valor numérico
+Pregunta::Precedencia
+Respuesta::Indica el orden en que se realizarán las distintas operaciones de una expresión
+Pregunta::Se usan para alterar la precedencia
+Respuesta::Paréntesis
+Pregunta::Paradigma Imperativo
+Respuesta::En este paradigma una variable se ve como un espacio en memoria que almacena valores¶• Cuando se asigna una variable a la otra, se copian los contenidos de la memoria
+Pregunta::Paradigmas de implementación de las variables
+Respuesta::Imperativo¶Orientado a Objetos
+Pregunta::Ejemplo de precedencia
+Respuesta::La multiplicación y la división tienen mayor precedencia que la suma y la resta
+Pregunta::La expresión se interpreta para
+Respuesta::producir un valor (evaluación)
+Pregunta::Expresión es una
+Respuesta::Combinación de:¶• Valores literales¶• Variables¶• Operadores¶• Llamadas a funciones
+Pregunta::Valor literal es
+Respuesta::Valor constante escrito en el algoritmo o código. Hay:¶Literales enteros¶Literales reales¶Strings¶Booleano
+Pregunta::Propiedades de las variables
+Respuesta::• Nombre¶• Tipo de datos¶• Valor¶• Alcance¶• Vida¶• Ubicación
+Pregunta::Que se puede hacer con una variable
+Respuesta::- Crearla¶- Asignarle un valor (actualizar su valor, destruyendo el anterior)¶- Obtener el valor. (Obtener una copia)
+Pregunta::Que es una variable
+Respuesta::Es una ubicación para almacenar un valor.¶Se asocia a un nombre simbólico y significativo.¶Su nombre puede utilizarse independientemente del valor que almacena¶El valor puede actualizarse
+Pregunta::Booleanos son...
+Respuesta::Tipo de dato que tiene únicamente dos posibles valores: falso o verdadero
+Pregunta::Operaciones de comparación
+Respuesta::• Igualdad ==¶• Desigualdad !=¶• Mayor que >¶• Mayor o igual que >=¶• Menor que <¶• Menor o igual que <=
+Pregunta::El resultado de una iteración es utilizado
+Respuesta::como punto de inicio para la siguiente
+Pregunta::Ambiente local
+Respuesta::Una subrutina puede contar con espacio para declarar variables
+Pregunta::Variables locales
+Respuesta::Sólo existen durante la ejecución de la subrutina¶Desaparecen luego de su finalización
+Pregunta::Procedimiento
+Respuesta::Conjunto de pasos que realiza algún trabajo¶Genera cambios en el estado del algoritmo o programa Puede recibir parámetros, pero es usual que no¶No retorna valores
+Pregunta::Funciones
+Respuesta::Concepto matemático¶• Correspondencia que asocia un conjunto de entradas con un conjunto de salidas permitidas¶• Dominio, codominio¶• Realiza algún cálculo y devuelve un resultado
+Pregunta::Procedimientos
+Respuesta::Conjunto de pasos que realiza un trabajo¶• Genera cambios en el estado (variables, datos)¶• Puede recibir parámetros (entradas), es usual que no los reciba¶• No retorna valores
+Pregunta::Ventajas de las subrutinas. Permiten
+Respuesta::- Descomponer las tareas en pasos más simples¶- Reducir pasos duplicados¶- Permitir la reutilización¶- Ocultar detalles de implementación¶- Facilitar la depuración
+Pregunta::Inventores de las subrutinas
+Respuesta::David Wheeler¶Stanley Gill¶Maurice Wilkes
+Pregunta::Subrutinas
+Respuesta::Secuencia de pasos que realizan una tarea específica, empacados como una unidad¶Puede ser utilizadas (invocadas, llamadas) dentro de un algoritmo o programa
+Pregunta::Procedimiento, función, rutina, método o subprograma
+Respuesta::Puede ser invocada muchas veces desde un programa
+Pregunta::Cada repetición es llamada
+Respuesta::iteración
+Pregunta::Estructura de decisión permite
+Respuesta::Ejecutar diferentes acciones dependiendo de una condición booleana¶Dos caminos (bifurcación, "branch")
+Pregunta::Cuáles son las estructuras de control
+Respuesta::- Decisión¶- Repetición¶- Subrutinas
+Pregunta::Que es el control de flujo
+Respuesta::Orden en que los pasos se ejecutan o son evaluados
+Pregunta::Las estructuras de control son relevantes porque los problemas requieren
+Respuesta::- Considerar restricciones y casos especiales¶- Realizar acciones alternativas dependiendo de los valores de las entradas¶- Realizar acciones repetitivas para procesar cantidades de datos
