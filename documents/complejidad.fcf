@@ -1,0 +1,35 @@
+Tema::Complejidad del software
+Pregunta::Según Brooks, ¿porqué el software es tan complejo de forma innata?
+Respuesta::La complejidad del software es una propiedad esencial, no accidental
+Pregunta::¿Cuáles son los elementos de la complejidad inherente?
+Respuesta::a) la complejidad del dominio del problema;¶b) la dificultad de gestionar el proceso de desarrollo;¶c) la flexibilidad que se puede alcanzar a través del software y,¶d) los problemas que plantea la caracterización del comportamiento de sistemas discretos.
+Pregunta::¿Qué son los «desacoplamientos de impedancia»?
+Respuesta::La complejidad entre los usuarios y los desarrolladores de un sistema
+Pregunta::¿Qué es la crisis del software?
+Respuesta::El fracaso en dominar la complejidad del software que lleva a proyectos retrasados, que exceden el presupuesto y que son deficientes respecto a los requerimientos fijados
+Pregunta::Quién dijo «La técnica de dominar la complejidad se conoce desde tiempos remotos: divide et impera»
+Respuesta::Dijkstra
+Pregunta::Quién dijo «Cuanto más complejo sea el sistema, más abierto está al derrumbamiento total»
+Respuesta::Peter (en el libro La Pirámide de Peter)
+Pregunta::5 atributos de un sistema complejo
+Respuesta::1. Jerarquía¶2. Componentes primitivos¶3. Los enlaces internos d elos componentes son más fuertes que los enlaces entre componentes¶4. Tienen patrones comunes¶5. Los sistemas complejos evolucionan volviéndose en primitivos de otros sistemas más complejos
+Pregunta::¿Qué es la forma canónica de un sistema complejo?
+Respuesta::La estructura de clases y la estructura de objetos
+Pregunta::¿Qué es el método?
+Respuesta::Es un proceso disciplinado para generar un conjunto de modelos que describen varios aspectos de un sistema de software en desarrollo, utilizando alguna notación bien definida
+Pregunta::¿Qué es metodología?
+Respuesta::Es una colección de métodos aplicados a lo largo del ciclo de vida del desarrollo del software y unificados por alguna aproximación general o filosófica
+Pregunta::¿Qué es la abstracción?
+Respuesta::a) aislamiento de un elemento de su contexto o del resto de los elementos que lo acompañan.¶b) denota las características esenciales de un objeto que lo distinguen de todos los demás tipos de objeto y proporciona así fronteras conceptuales nítidamente definidas respecto a la perspectiva del observador
+Pregunta::¿Qué es la jerarquía?
+Respuesta::La identificación de los diferentes componentes y las relaciones entre éstos.
+Pregunta::¿Qué significa el diseño? (Mostow)
+Respuesta::1. Satisface determinada (quizás informal) especificación funcional.¶2. Se ajusta a las limitaciones impuestas por el medio de destino.¶3. Respeta requisitos implícitos o explícitos sobre rendimiento y utilización de recursos.¶4. Satisface criterios de diseño implícitos o explícitos sobre la forma del artefacto.¶5. Satisface restricciones sobre el propio proceso de diseño, tales como su longitud o costo, o las herramientas disponibles para realizar el diseño
+Pregunta::¿Qué significa el diseño? (Stroustrup)
+Respuesta::El propósito del diseño es crear una estructura interna (a veces llamada también arquitectura) clara y relativamente simple... Un diseño es el producto final del proceso de diseño.
+Pregunta::¿Qué es un modelo?
+Respuesta::El producto del diseño
+Pregunta::¿Cuáles son los elementos de diseño del software?
+Respuesta::Notación: El lenguaje para expresar el modelo¶Proceso: Las actividades que encaminan a la construcción ordenada¶Herramientas: Los artefactos
+Pregunta::¿Cómo se enfrenta la complejidad?
+Respuesta::Mediante el uso de la descomposición, abstracción y jerarquía.
